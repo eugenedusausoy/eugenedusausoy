@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-I’m a **5th-year Computer Science student** at HEI Lille, currently seeking a **6-month internship** to apply my skills and passion for AI, data science, and project management. I have hands-on experience in both **AI research** and **product management**, and I'm driven by a strong motivation to contribute to innovative projects.
+I’m a **5th-year Computer Science student** at JUNIA HEI Lille, France, currently seeking a **6-month internship** to apply my skills and passion for AI, data science, and project management. I have hands-on experience in **AI products**, **Databases** and **product management**, and I'm driven by a strong motivation to contribute to innovative projects.
 
 My background blends technical proficiency in **machine learning, AI, and software development** with leadership and teamwork abilities honed through academic and professional experiences.
 
