@@ -1,8 +1,8 @@
 # 👋 Eugene Dusausoy
 
-**Location:** Roubaix, France
-**LinkedIn:** (https://linkedin.com/in/eugenedusausoy)
-**Linktree:** (https://linktr.ee/eugenedusausoy)
+- **Location:** Roubaix, France
+- **LinkedIn:** (https://linkedin.com/in/eugenedusausoy)
+- **Linktree:** (https://linktr.ee/eugenedusausoy)
 
 ## 💡 About Me
 
@@ -65,9 +65,9 @@ I am particularly interested in working on projects that leverage AI and data-dr
 
 # 👋 Eugene Dusausoy
 
-**Location:** Roubaix, France
-**LinkedIn:** (https://linkedin.com/in/eugenedusausoy)
-**Linktree:** (https://linktr.ee/eugenedusausoy)
+- **Location:** Roubaix, France
+- **LinkedIn:** (https://linkedin.com/in/eugenedusausoy)
+- **Linktree:** (https://linktr.ee/eugenedusausoy)
 
 ## 💡 A propos de moi
 
