@@ -24,6 +24,7 @@ I am particularly interested in working on projects that leverage AI and data-dr
 
 ### Tools & Technologies
 - **TensorFlow, PyTorch, scikit-learn** for deep learning and AI development.
+- **Spark** and **Hadoop**
 - **Figma, Confluence, JIRA**
 - **Excel, PowerBI, VBA, Office 365**
 
@@ -38,13 +39,13 @@ I am particularly interested in working on projects that leverage AI and data-dr
   Focus on **AI, cloud systems, and databases**. Currently developing an AI-powered file organizer using LLM., check it out on my github repo.
   
 - **JUNIA HEI Lille (2020-2025)** — General Engineering with a specialization in **Computer Science and IT**  
-  - Created a **smart refrigerator** using ChatGPT’s API to generate recipes.
-  - Led a **team of 9** to build a **functional exoskeleton** prototype.
+  - Created a **smart refrigerator** that uses ChatGPT’s API to generate recipes from an grocery order made online.
+  - Led a **team of 9** to build an ** exoskeleton** prototype.
 
 ## 💼 Work Experience
 
 ### Assistant Product Owner (May 2024 - Aug 2024) — **Worldline, Seclin**
-- Designed mock-ups for new functionalities and contributed to enhancing the efficiency of the project lifecycle.  
+- **Designed mock-ups for new functionalities** and contributed to **enhancing the efficiency of the project lifecycle**.  
 - Facilitated cross-team meetings and played a pivotal role in guiding project progress.
 
 ### Student Jobs (Summers 2020-2022, Oct 2022 - May 2024) — **Chronodrive**
@@ -78,7 +79,7 @@ Mon parcours mêle des compétences techniques en **Machine learning, IA et dév
 
 **Intelligence artificielle et science des données**
 
-Je suis particulièrement intéressé à travailler sur des projets qui tirent parti de l'IA et des technologies axées sur les données pour résoudre des problèmes du monde réel. J'aime collaborer dans des environnements variés et contribuer à des solutions qui ont un impact.
+Je suis particulièrement intéressé par des projets qui tirent profit de l'IA et des technologies axées sur les données pour résoudre des problèmes du monde réel. J'aime collaborer dans des environnements variés et contribuer à des solutions qui ont un impact.
 
 ## 🔧 Compétences
 
@@ -88,27 +89,28 @@ Je suis particulièrement intéressé à travailler sur des projets qui tirent p
 
 ### Outils et technologies
 - **TensorFlow, PyTorch, scikit-learn** pour l'apprentissage profond et le développement de l'IA.
+- **Spark** et **Hadoop**
 - **Figma, Confluence, JIRA**
 - **Excel, PowerBI, VBA, Office 365**.
 
 ### Compétences non techniques
 - Gestion de projet et d'équipe
-- Fortement **orienté vers le service**, avec un don pour **résoudre les problèmes** et le pragmatisme.
-- Motivation et leadership**, favorisant un travail d'équipe dynamique et efficace.
+- Fortement **orienté vers le service**, avec une appétance pour **résoudre les problèmes** avec pragmatisme.
+- **Motivation et leadership**, favorisant un travail d'équipe dynamique et efficace.
 
 ## 🏫 Formation
 
 - **Maîtrise en informatique (2024-2025)** - Université du Québec à Chicoutimi (UQAC), Canada.  
-  Focus sur **l'IA, les systèmes cloud et les bases de données**. Je développe actuellement un organisateur de fichiers alimenté par l'IA en utilisant LLM, jetez un coup d'œil sur mon repo github.
+  Focus sur **l'IA, les systèmes cloud et les bases de données**. Je développe actuellement un organisateur de fichiers alimenté par l'IA en utilisant LLM. Allez y jetez un coup d'œil sur mon repo github.
   
-- **JUNIA HEI Lille (2020-2025)** - Ingénieur généraliste avec une spécialisation en **Informatique et TI**.  
-  - Création d'un **réfrigérateur intelligent** utilisant l'API de ChatGPT pour générer des recettes.
-  - A dirigé une **équipe de 9** pour construire un prototype d'exosquelette **fonctionnel**.
+- **JUNIA HEI Lille (2020-2025)** - Ingénieur généraliste avec une spécialisation en **Informatique et Technologies de l'information**.  
+  - Création d'un **réfrigérateur intelligent** qui, sur la base d'une commande faite en drive, utilise l'API de ChatGPT pour générer des recettes.
+  - A dirigé une **équipe de 9** pour construire un prototype d'exosquelette avec des matériauux de faible technicité.
 
 ## 💼 Expérience professionnelle
 
 ### Assistant Product Owner (mai 2024 - août 2024) - **Worldline, Seclin**
-- Conçu des maquettes pour de nouvelles fonctionnalités et contribué à améliorer l'efficacité du cycle de vie du projet.  
+- Conçu des **maquettes pour de nouvelles fonctionnalités** et contribué à **améliorer l'efficacité du cycle de vie du projet**.  
 - Faciliter les réunions inter-équipes et jouer un rôle central dans l'avancement du projet.
 
 ### Emplois étudiants (étés 2020-2022, oct. 2022 - mai 2024) - **Chronodrive**
