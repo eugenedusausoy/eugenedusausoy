@@ -1,4 +1,4 @@
-# 👋 Eugene Dusausoy
+# 👋 Eugene Dusausoy (English Version, French Version will follow)
 
 - **Location:** Roubaix, France
 - **LinkedIn:** (https://linkedin.com/in/eugenedusausoy)
