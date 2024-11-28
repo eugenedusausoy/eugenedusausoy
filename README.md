@@ -122,5 +122,5 @@ Je suis particulièrement intéressé par des projets qui tirent profit de l'IA 
 
 ## 🎵 Loisirs et centres d'intérêt
 - Pianiste depuis 15 ans, je compose et publie de la musique.  
-  Jetez un coup d'œil à mon travail sur [Mon site de musique] (http://linktr.ee/eugenedusausoy).
+  Jetez un coup d'œil à mon travail sur [Mon site de musique](http://linktr.ee/eugenedusausoy).
 - Sports:** Passionné de **basketball** et de **calisthénie**, combinant la force et l'équilibre dans l'entraînement physique.
