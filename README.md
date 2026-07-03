@@ -1,41 +1,58 @@
 # 👋 Eugene Dusausoy
 
 - **LinkedIn:** [eugenedusausoy](https://linkedin.com/in/eugenedusausoy)
+- **GitHub:** [eugenedusausoy](https://github.com/eugenedusausoy)
 
 ## 💡 About Me
 
-I’m a **Computer Science graduate** from JUNIA HEI Lille, passionate about **AI, data science, and product management**. I have hands-on experience with **machine learning, databases, and product development**, and I enjoy turning technical insights into actionable solutions. My recent internship allowed me to combine **AI research, documentation, and project management** in a professional environment.
+I’m a Computer Science & AI Engineering graduate with hands-on experience in product management, Linux system administration, and hardware diagnostics. I specialize in translating technical insights into actionable product strategies, with a strong focus on self-hosted infrastructure, privacy-resilient architecture, and PC hardware optimization. My recent professional experience at Worldline combined AI research, technical documentation, and cross-functional collaboration, while my independent projects focus on fleet routing algorithms, Docker-based home servers, and Arch Linux customization. I’m currently seeking a role where I can leverage technical expertise, analytical rigor, and a customer-first mindset in the PC hardware or e-commerce space.
 
 ## 🔧 Skills
 
-- **Programming:** Python, SQL, MongoDB, C++, Java, HTML/CSS, JavaScript  
-- **AI & ML Tools:** TensorFlow, PyTorch, scikit-learn, LM Studio, Ollama  
-- **Technologies & Tools:** Spark, Hadoop, Figma, Excel, PowerBI  
-- **Soft Skills:** Project management, documentation, research, teamwork, problem-solving
+- **Systems & Administration:** Linux (Arch, Debian), systemd, Hyprland, Docker, hardware diagnostics & PC assembly, network configuration, self-hosted infrastructure
+- **Programming & Scripting:** Python, Shell/Bash, Git, HTML/CSS, JavaScript (AI-augmented workflow)
+- **AI & Data:** Local LLM deployment, prompt engineering, data analysis (Excel/PowerBI), technical documentation (Hugo)
+- **Product & Communication:** Market/competitive analysis, functional specifications, sales enablement, cross-functional collaboration, technical troubleshooting
 
 ## 🏫 Education
 
-- **Master’s in Computer Science (2024-2025)** — Université du Québec à Chicoutimi, Canada (AI & cloud systems focus)  
-- **JUNIA HEI Lille (2020-2025)** — Engineering with specialization in **Computer Science & IT**
+- **Engineering Diploma (Master’s equivalent)** — JUNIA HEI, Lille, France (2020–2025)
+  - *Academic Exchange:* Université du Québec à Chicoutimi (UQAC), Canada (2024–2025)
+  - Focus: AI, cloud architecture, database systems, team management
+  - Capstone: LLM-based automated file organization system
+  - Led 9-person team for low-tech exoskeleton prototype; built smart fridge app with ChatGPT API
 
 ## 💼 Work Experience
 
-### 6-Month Internship — **Worldline (Feb 2025 - Aug 2025)**
-- Created detailed documentation for the team’s AI solutions.  
-- Conducted extensive research and technological watch to support product decisions.  
-- Assisted in improving project workflows and collaborating with cross-functional teams.
+### Product Manager Assistant — Worldline, Villeurbanne, France (Feb 2025 – Aug 2025)
+- Conducted competitive analysis across 4 European markets to define product positioning for a conversational AI platform
+- Evaluated and refined AI model guardrails to maintain consistent conversational tone, enforce helpline-specific use cases, and prevent prompt injection or conversational drift
+- Redesigned documentation architecture using Hugo, streamlining content management and reducing cross-team revision cycles
+- Developed sales enablement materials translating technical features into commercial value propositions
+- Collaborated with engineering and marketing stakeholders to align product roadmap with market feedback and user testing
 
-### Assistant Product Owner (May 2024 - Aug 2024) — **Worldline**
-- Designed mock-ups, improved project lifecycle efficiency, and led cross-team meetings.  
+### Functional Analyst Intern — Worldline, Seclin, France (May 2024 – Aug 2024)
+- Translated customer requirements into functional specifications for an online ticketing application
+- Designed UI mock-ups and updated documentation, ensuring alignment between client expectations and development teams
+- Facilitated cross-functional meetings to track progress and resolve blockers
 
-### Student Jobs (Summers 2020-2022, Oct 2022 - May 2024) — **Chronodrive**
-- Gained experience with supply chain IT systems and created an AI-based smart fridge app.
+### Logistics & Customer Service Associate — Chronodrive, France (2020–2024)
+- Managed high-volume order fulfillment with 99%+ accuracy across 500+ weekly SKUs
+- Provided frontline technical support, resolving hardware/software compatibility and digital tooling inquiries
+
+## 🛠️ Projects
+
+- **Delivery Route Optimizer** — Python, PyVRP, OSRM, Nominatim: Designed a graph-based pathfinding algorithm for fleet management, reducing simulated delivery time by ~15%
+- **Self-Hosted Home Server** — Debian, Docker, Reverse Proxy, DuckDNS, SSH Auth Keys: Built, deployed, and maintain infrastructure running Jellyfin, Navidrome, Nextcloud, Minecraft, and a local AI voice transcription pipeline
+- **Arch Linux + Hyprland Workstation** — Customized desktop environment with Waybar/Sway, optimized for development and media workflows; troubleshoot hardware/driver compatibility
+- **Technical Support & Community Troubleshooting** — Ongoing family/community network support for hardware diagnostics, network configuration, and digital tooling
 
 ## 🌐 Languages
 
-- **French (Native)**, **English (C2)**, **German (B1)**, **Chinese (Beginner)**
+- **French (Native)** | **English (C2)** | **German (B1)** | **Chinese (Beginner)**
 
 ## 🎵 Interests
 
-- **Music:** Pianist and composer. [My Music Site](https://linktr.ee/geneazar) 
-- **Sports:** Passionate about basketball and calisthenics.
+- **Music:** Independent composer and producer (EP/singles development, self-managed digital distribution)
+- **Tech Ethos:** Privacy-focused advocate for self-hosted, transparent, and user-controlled digital solutions
+- **Sports:** Basketball & calisthenics
