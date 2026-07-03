@@ -1,7 +1,6 @@
 # 👋 Eugene Dusausoy
 
-- **LinkedIn:** [eugenedusausoy](https://linkedin.com/in/eugenedusausoy)  
-- **Linktree:** [linktr.ee/eugenedusausoy](https://linktr.ee/geneazar)
+- **LinkedIn:** [eugenedusausoy](https://linkedin.com/in/eugenedusausoy)
 
 ## 💡 About Me
 
@@ -38,5 +37,5 @@ I’m a **Computer Science graduate** from JUNIA HEI Lille, passionate about **A
 
 ## 🎵 Interests
 
-- **Music:** Pianist and composer. [My Music Site](http://linktr.ee/eugenedusausoy)  
+- **Music:** Pianist and composer. [My Music Site](https://linktr.ee/geneazar) 
 - **Sports:** Passionate about basketball and calisthenics.
